@@ -60,5 +60,4 @@ The goal of this project was to **build a model capable of real-time ASL letter 
 
 ---
 
-## Repository Structure
 
